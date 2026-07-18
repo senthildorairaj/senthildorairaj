@@ -1,16 +1,13 @@
-## Hi there 👋
+# Senthil Kumar Dorairaj — Applied Generative AI & Agentic AI Engineering Portfolio
 
-<!--
-**senthildorairaj/senthildorairaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+Here you’ll find my applied AI systems built through the Johns Hopkins University AI programs.
 
-Here are some ideas to get you started:
+📘 Download my full project portfolio (PDF)
+👉 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+- Automated Mortgage Underwriting System (Agentic AI)
+- Autonomous Financial Research Analyst (Agentic AI)
+- AI Research Proposal Automation (Generative AI)
+- AI Email Secretary (Generative AI)
